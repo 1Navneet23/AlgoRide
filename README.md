@@ -2,7 +2,7 @@
 
 A terminal-based Cab Booking System built entirely in Java, designed to practice and implement core Data Structures & Algorithms concepts in a real-world project context.
 
-> Built as a learning project — every feature maps directly to a DSA concept.
+> Built as a learning project — every feature maps directly to a DSA concepts.
 
 ---
 
